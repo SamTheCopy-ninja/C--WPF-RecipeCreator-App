@@ -1,5 +1,4 @@
-# prog6221---poe-ST10082747
-prog6221---poe-ST10082747 created by GitHub Classroom
+
 # PersonalRecipeCreator 🍴👨‍🍳
 
 ## Credits and App Description
@@ -16,7 +15,7 @@ PersonalRecipeCreator is a user-friendly C# Windows Form application that enable
 To get started with PersonalRecipeCreator, make sure you have [Microsoft Visual Studio](https://visualstudio.microsoft.com/) installed on your system. Clone this repository using the following command:
 
 ```
-git clone https://github.com/VCDBN/prog6221---poe-ST10082747.git
+git clone https://github.com/SamTheCopy-ninja/C-Sharp-WPF-RecipeCreator-App.git
 ```
 
 Once cloned, open the project in Visual Studio and run the application.
