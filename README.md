@@ -2,10 +2,8 @@
 # PersonalRecipeCreator 🍴👨‍🍳
 
 ## Credits and App Description
-
-Built by [Samkelo Tshabalala (ST10082747)](https://github.com/ST10082747)  
   
-Personal Github: [SamTheCopy-ninja (Samkelo Tshabalala)](https://github.com/SamTheCopy-ninja)
+Github: [SamTheCopy-ninja (Samkelo Tshabalala)](https://github.com/SamTheCopy-ninja)
 
 
 PersonalRecipeCreator is a user-friendly C# Windows Form application that enables users to create their own recipes by entering the name, measurement, and quantity of each ingredient. With this application, users can also add recipe steps, scale recipes up or down, and clear recipe details effortlessly. Users can now add also multiple recipes, food groups and calories, and also view each individual recipe they have created. Users can also filter their list of recipes to search for specific recipes.
